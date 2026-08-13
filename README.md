@@ -34,6 +34,11 @@ Organizar conhecimentos, referências e exemplos sobre:
 - Power BI
 - Excel
 
+## Fontes
+
+- https://ufsj.edu.br/portal2-repositorio/File/lapsam/(review)Texto%2010%20-%20analise%20de%20dados.pdf
+- https://mitsloanreview.com.br/analise-de-dados/
+- https://www.youtube.com/playlist?list=PLPP4r1UqnhGpdFzpXRIHCQaMWS0o67soG
 ## Autor
 
 Jean Diniz
