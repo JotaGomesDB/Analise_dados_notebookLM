@@ -1,5 +1,6 @@
 # Analise_dados_notebookLM
 📊 Análise de Dados com NotebookLM
+https://notebook.google.com/notebook/6fb34884-53b0-443a-a35e-ceffa000419e
 
 Este repositório reúne um material de estudos desenvolvido utilizando o NotebookLM, abordando conceitos fundamentais de Análise de Dados.
 
@@ -18,13 +19,6 @@ Organizar conhecimentos, referências e exemplos sobre:
 - Dashboards
 - Indicadores (KPIs)
 
-## Conteúdo
-
-- Material gerado pelo NotebookLM
-- Referências bibliográficas
-- Exemplos práticos
-- Recursos complementares
-
 ## Tecnologias relacionadas
 
 - Python
@@ -39,6 +33,7 @@ Organizar conhecimentos, referências e exemplos sobre:
 - https://ufsj.edu.br/portal2-repositorio/File/lapsam/(review)Texto%2010%20-%20analise%20de%20dados.pdf
 - https://mitsloanreview.com.br/analise-de-dados/
 - https://www.youtube.com/playlist?list=PLPP4r1UqnhGpdFzpXRIHCQaMWS0o67soG
+  
 ## Autor
 
 Jean Diniz
