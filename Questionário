@@ -1,1 +1,49 @@
+1) Como a inteligência analítica evoluiu historicamente desde as primeiras formas de registro até a era do Big Data?
+R: A evolução da inteligência analítica é uma jornada fascinante que acompanha a própria necessidade humana de organização, 
+controle e tomada de decisão. Como discutimos anteriormente, as ferramentas hoje parecem automáticas e são fortemente aceleradas por 
+inteligência artificial, mas esse patamar é o resultado de séculos de aprimoramento metodológico e tecnológico
+Podemos estruturar essa evolução histórica em sete grandes fases:
+1. Práticas Rudimentares na Antiguidade
+2. Século 19: A Estatística como Disciplina Científica
+3. Século 20: O Surgimento dos Computadores
+4. Década de 1960: Bancos de Dados Relacionais
+5. Década de 1980: A Democratização das Planilhas Eletrônicas
+6. Século 21: A Era do Big Data
+7. O Momento Atual: Aprendizado de Máquina e Inteligência Artificial
+
+2) Quais são os quatro níveis da arquitetura analítica?
+R: Os quatro níveis da arquitetura analítica, que formam uma progressão natural de complexidade 
+e valor estratégico dentro das organizações, são os seguintes:
+1. Análise Descritiva
+Foco: Avaliar e resumir dados históricos para compreender eventos que já ocorreram
+Características: É o nível de partida e serve de base para todas as outras análises
+Baseia-se no uso de estatísticas simples (como médias, medianas e porcentagens) para apresentar fatos consolidados
+em relatórios periódicos ou dashboards de KPIs, exibindo os acontecimentos sem realizar interpretações causais
+2. Análise Diagnóstica
+Foco: Investigar as causas raiz de problemas, anomalias ou variações de desempenho identificadas na etapa anterior
+Características: Busca estabelecer relações de causa e efeito e correlações nos dados.
+Para isso, envolve a combinação de múltiplas fontes de informação e técnicas estatísticas avançadas, como análise de regressão, 
+testes de hipóteses e análises de cohort para monitorar comportamentos ao longo do tempo.
+3. Análise Preditiva
+Foco: Projetar cenários e estimar o que provavelmente acontecerá no futuro próximo.
+Características: Baseia-se em dados históricos, suposições e tendências passadas para calcular probabilidades de ocorrência. 
+Utiliza recursos avançados como algoritmos de machine learning, modelos estatísticos multivariados e análise de séries temporais
+4. Análise Prescritiva
+Foco: Recomendar o melhor curso de ação prático que a organização deve tomar para atingir suas metas ou mitigar riscos
+Características: É o nível de maior complexidade e valor estratégico da arquitetura
+Ela consome os dados e previsões gerados nas fases anteriores e aplica inteligência artificial, 
+simulações de cenários e algoritmos de otimização matemática para direcionar decisões de forma proativa.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
