@@ -34,6 +34,15 @@ Características: É o nível de maior complexidade e valor estratégico da arqu
 Ela consome os dados e previsões gerados nas fases anteriores e aplica inteligência artificial, 
 simulações de cenários e algoritmos de otimização matemática para direcionar decisões de forma proativa.
 
+3) Por que identificar corretamente a escala de uma variável é importante antes de realizar uma análise estatística?
+R: A identificação correta da escala de medida de uma variável é o primeiro e mais crucial passo antes de realizar qualquer 
+análise quantitativa porque os dados coletados possuem diferentes qualidades numéricas. 
+A escolha inadequada da escala compromete toda a integridade da análise, pois a escala determina diretamente quais 
+operações matemáticas são válidas e, consequentemente, quais testes estatísticos podem ser aplicados
+
+4) Quais são as cinco etapas do Pipeline Analítico Moderno?
+R:
+
 
 
 
