@@ -37,3 +37,5 @@ Organizar conhecimentos, referências e exemplos sobre:
 ## Autor
 
 Jean Diniz
+
+Teste: Autenticando via SSH.
